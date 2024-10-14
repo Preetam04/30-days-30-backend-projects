@@ -6,11 +6,9 @@ This is small challenge I came up with were i create 30 small backend project in
 
 ## Tech stack
 
-Nodejs
-express js
-mongo db
-postgress
-prisma
+🧩Language: Nodejs, Typesript
+🧩framework: Express
+🧩db: Mongodb, Postgress, Prisma
 
 ## Projects
 
