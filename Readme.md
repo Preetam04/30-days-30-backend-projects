@@ -6,9 +6,7 @@ This is small challenge I came up with were i create 30 small backend project in
 
 ## Tech stack
 
-🧩Language: Nodejs, Typesript
-🧩framework: Express
-🧩db: Mongodb, Postgress, Prisma
+<h4 align="left">🚀 Language: Nodejs, Typesript<br>🚀 framework: Express<br>🚀 db: Mongodb, Postgress, Prisma</h4>
 
 ## Projects
 
