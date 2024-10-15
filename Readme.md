@@ -14,3 +14,6 @@ This is small challenge I came up with were i create 30 small backend project in
 
 1. User Registration & Authentication Service:
    Build a microservice for user registration, login, and logout with JWT-based authentication.
+
+2. Simple To-Do List Service:
+   Implement a CRUD service for managing to-do items with basic validation and persistence.
