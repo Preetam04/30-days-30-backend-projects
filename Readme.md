@@ -17,3 +17,6 @@ This is small challenge I came up with were i create 30 small backend project in
 
 2. Simple To-Do List Service:
    Implement a CRUD service for managing to-do items with basic validation and persistence.
+
+3. Weather API Microservice:
+   Create a microservice that fetches weather data from a third-party API and serves it to clients.
